@@ -1,0 +1,10 @@
+Package: @@PACKAGENAME@@
+Name: @@FULLPROJECTNAME@@ Cheats
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome Cydia Substrate tweak from iOSGods.com!
+Maintainer: @@USER@@
+Author: @@USER@@
+Section: Tweaks
+Homepage: http://iosgods.com
