@@ -61,7 +61,7 @@ UIAlertView *igcredits = [[UIAlertView alloc] initWithTitle:@"@@PROJECTNAME@@ Ch
 										otherButtonTitles:@"Visit Us", nil]; 
 [igcredits show];
 [igcredits release]; 
-%orig();
+return %orig();
 }
  
 %new
